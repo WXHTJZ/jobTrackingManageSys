@@ -1,0 +1,166 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 15,
+  "data": [
+    {
+      "id": 1,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 2,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    }
+  ,
+    {
+      "id": 3,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    }
+  ,
+    {
+      "id": 4,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    }
+  ,
+    {
+      "id": 5,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    }
+  ,
+    {
+      "id": 6,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    }
+  ,
+    {
+      "id": 7,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 8,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 9,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 10,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    }
+  ,
+    {
+      "id": 11,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    }
+  ,
+    {
+      "id": 12,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    }
+  ,
+    {
+      "id": 13,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    },
+    {
+      "id": 14,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    }
+  ,
+    {
+      "id": 15,
+      "majorName": "计算机科学与技术",
+      "className": "计算机172220",
+      "period": "2017",
+      "joinDate": "2017-9-1",
+      "num": "40",
+      "classTeacher": "张三",
+      "instructor": "李四"
+    }
+  ]
+}
